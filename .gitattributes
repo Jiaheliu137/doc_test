@@ -1,5 +1,0 @@
-# 将常用文件视为文本并使用 LF 行结束符
-*.html text eol=lf
-*.css text eol=lf
-*.js text eol=lf
-*.json text eol=lf
