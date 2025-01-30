@@ -63,6 +63,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '第四块',
+        items: [
+          { text: '想不出来了', link: '/test7' },
+          { text: '别想了放弃吧', link: '/test8' }
+        ]
+      },
+      {
         text: '插入外部链接也可以',
         items: [
           { text: '这是一个外部链接', link: 'https://github.com/Jiaheliu137/doc_test' }
